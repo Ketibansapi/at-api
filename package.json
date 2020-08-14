@@ -1,0 +1,24 @@
+{
+  "name": "botch-apixdocker",
+  "version": "1.0.0",
+  "description": "mock docker botchlabxnode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ketibansapi/at-api.git"
+  },
+  "author": "Deary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ketibansapi/at-api/issues"
+  },
+  "homepage": "https://github.com/Ketibansapi/at-api#readme",
+  "dependencies": {
+    "fastify": "^3.2.0",
+    "fastify-autoload": "^3.0.8",
+    "uuid": "^8.3.0"
+  }
+}
